@@ -1,0 +1,122 @@
+body{
+font-family: Segoe UI;
+font-size: 14px;
+color: #333;}
+
+header{
+	background-color: rgba(13, 70,83, 0.78);
+	padding: 20px 0px;
+}
+
+#sec-intro{
+	background-image: url(../img/bg-banner.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: center;
+	
+}
+
+.bg-intro{
+	padding: 100px 0px;
+	min-height: 500px;
+	background-color: rgba(13, 70,83, 0.78);
+}
+
+#sec-intro h1{
+	font-size: 50px;
+	text-transform: uppercase;
+	font-weight: bold;
+	
+}
+
+#sec-intro p{
+	font-size: 18px;
+
+}
+
+.btn-medilab,
+.btn-medilab:hover{
+	background-color: #0cb8b6;
+	margin-top: 30px;
+}
+
+#sec-services{
+	padding: 40px 0px;
+}
+
+#sec-services h2{
+	color: #000000;
+	text-transform: uppercase;
+	}
+#sec-services p{
+	color: #999;
+	
+}
+
+#sec-services h3{
+	color:#000000;
+	font-size: 18px;
+	font-weight: 600px;                                                                                                                                                                                                                                          
+}
+
+.icono{
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	background-color: #0cb8b6;
+	color:white;
+	display: block;
+	text-align: center;
+	font-size: 22px;
+	font-weight: 600;
+	border-radius: 100% 50%;
+	border: 2px solid #007F74;
+	transition: all 0.5s ease-in-out;
+}
+
+.icono:hover{
+	background-color: #007F74;
+	border: 2px solid #0cb8b6;
+	cursor: pointer;
+	transition: all 0.5s ease-in-out;
+}
+
+
+#sec-green{
+	background-color: #0cb8b6;
+	border: 2px solid #ffff;
+}
+
+#sec-green h2{
+	color: white;
+	font-size: 25px;
+	
+}
+#sec-green p{
+	color: white;
+}
+
+#sec-green a{
+	background-color: #0cb8b6;
+	color:white;
+	text-align: center;
+	font-size: 15px;
+	padding: 3px;
+	border: 2px solid #FFFFFF;
+	transition: all 0.5s ease-in-out;
+	text-decoration: none;
+	
+}
+
+
+
+
+
+
+
+
+
+
